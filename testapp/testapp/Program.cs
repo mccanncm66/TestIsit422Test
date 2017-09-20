@@ -11,6 +11,7 @@ namespace testapp
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("this is from github");
         }
     }
 }
