@@ -12,6 +12,7 @@ namespace testapp
         {
             Console.WriteLine("hello");
             Console.WriteLine("this is from github");
+            Console.Read();
         }
     }
 }
